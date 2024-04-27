@@ -10,5 +10,7 @@ Welcome to the Age Calculator project! This simple web application allows users 
 ## Usage
 
 1. Enter your birthdate in the provided input field.
-2. Click on the "Calculate Age" button.
+2. Click on the "Calculate" button.
 3. Your age will be displayed below the input field.
+4. 
+![Age Calculator](Image.jpg)
